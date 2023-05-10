@@ -23,14 +23,14 @@
     color: white;
     font-size: 20px;
     font-weight: 600;
-    margin: 0px 10px;
+    margin: 15px 10px;
 }
 .head-top_2 a:hover{
     background-color:transparent ;
  color:black;
  transition: 0.5s ease-in-out;
- padding: 20px ;
- transform: scale(2.5);
+ padding: 10px ;
+ transform: scale(1.5);
 }
 .head-top_2 a i{
     margin-left: 44px;
@@ -41,7 +41,7 @@
     color: white;
     font-size: 20px;
     font-weight: 600;
-    margin: 0px 10px;
+    margin: 15px 10px;
 }
 .social a i{
     margin-right: 8px;
@@ -51,8 +51,8 @@
     background-color:transparent ;
  color:black;
  transition: 0.5s ease-in-out;
- padding: 20px ;
- transform: scale(2.5);
+ padding: 10px ;
+ transform: scale(1.5);
 }
 .social_1{
     margin-top: 10px;
@@ -69,7 +69,7 @@ display: inline-flex;
     color: white;
     border: 1px solid white;
     border-radius: 50%;
-    padding: 2px 5px 5px 8px;
+    padding: 4px 10px 5px 8px;
     
 }
 .social_1 ul li a:hover{
@@ -238,7 +238,7 @@ z-index: 999;
 }
 .card a{
     font-size: 58px;
-    margin-left: 20px;  
+    margin-left: 120px;  
     color: #fff;
     background-color: #0a58ca;
     width: 22%;
@@ -247,9 +247,12 @@ z-index: 999;
     padding-left: 17px;
     padding-bottom: 4px; 
 }
+#last{
+    margin-left: 120px ;  
+}
 .card img{
     width: 20%;
-    margin-left: 20px;   
+    margin-left: 120px ;   
     color: #fff;
     width: 20%;
     margin-left: 20px;
